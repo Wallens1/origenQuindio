@@ -22,14 +22,3 @@ Usan la base `origen_quindio_test` del contenedor local.
 ```powershell
 .\gradlew.bat test
 ```
-
-## Partes
-
-| Parte | Responsable | Contenido |
-|---|---|---|
-| 1 | Juan Guzmán | Estructura, conexión y usuarios |
-| 2 | Juan Wallens | Fincas y clima |
-| 3 | Juan Gutiérrez | Lotes y etapas |
-| 4 | Natalia Martínez | Catas, agregación y documento |
-
-Se suben en ese orden. Cada parte compila y pasa sus pruebas con las anteriores.
